@@ -1,0 +1,5 @@
+.env
+.air.toml
+
+main.exe
+go.sum
